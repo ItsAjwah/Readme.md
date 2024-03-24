@@ -66,6 +66,11 @@ You can customize the following parameters in the code:
 - This project is created by Ajwa Asif.
 
 ## Screenshots of the output
+Q1 Best route once we run it
 <img width="599" alt="q1 best route ss" src="https://github.com/ItsAjwah/Readme.md/assets/139917879/ba56fe72-565e-4b38-881c-03d9fa33d8df">
+
+we run it again and found out best route with obstacles on random places
 <img width="600" alt="q1 best route ss when we run again" src="https://github.com/ItsAjwah/Readme.md/assets/139917879/a53aeff7-dd89-4133-9ec7-5eef0a3894cd">
+
+again we found out the best route
 <img width="599" alt="best route ss after running again" src="https://github.com/ItsAjwah/Readme.md/assets/139917879/bed2839e-7add-4050-9694-48ef05343a77">
